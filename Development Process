@@ -1,0 +1,100 @@
+The Internship Consists of 4 milestones each milestone lasts for [3 weeks ~ 1 month]. Each milestone consists of two sprints. Each sprint consists of two reviews
+
+  1.Pre-Alpha [Conceptualization] 
+  2.Alpha [Mapping & Radiation]
+  3.Beta [Polish & Storytelling Intro]
+  4.Final Release & Field Testing
+  
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1st Sprint Milestone [Pre-Alpha]
+
+Sprint goal:
+  This phase intends to set the game concept as well as an executable VR template for Oculus Quest 2 Issues [User stories]: 
+    1.Defined VR game concept. 
+    2.A stable workflow between Unreal Engine & Oculus 
+
+Tasks:
+  The game’s main concept 
+  Brushify’s environment VR Testing [postponed]
+  Unreal + Oculus Integration 
+  VR template [open XR template] for unreal 
+  Setting up source control on GitHub.
+
+Deadline: 31/03/2023 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2nd Milestones [Alpha] [Deadline: 28/04/2023]
+
+  Sprint goal:
+    1.VR Game where the player can group the rovers to perform [topology mapping, soil analysis, radiation measurement, and radio astronomy]. 
+    2.The game can calculate the score by the colonies and the number of residences settled in the regions done by the rovers.
+
+  Issues [User stories]:
+   1.1 As a player I want to move and rotate in the moon Environment.
+   1.2 As a player I want to select a group of rovers and move them to the moon environment. 
+   1.3 As a player I want to select a group of rovers and perform topology mapping on a specific region.
+   1.4 As a game, I can estimate the time taken for each region to be mapped.
+   1.5 As a game, I create a score based on measuring this region's suitability and define the colony's size and upon, the number of residences.
+   2.1 As a player, I want to select a group of rovers and measure the radiation of the crater.
+   2.2	As a player, I want to use the rovers to create a virtual antenna to do radio astronomy.
+
+  Tasks:
+   1.Create the basic game environment on blender. 
+   2.For each user story create:
+      a.Assets creation.
+      b.Game UI inside UE.
+      c.Programming game mechanics.   
+   3.User stories Integration.
+   4.Testing with the team
+
+  *1st sprint [27/3 to 10/4] 
+    1.Create VR Template 
+    2.Create environment 
+    3.Develop mapping and scoring.
+
+      -1st Review 
+        VR template 
+        Environment & Assets 
+	      Develop Topology mapping
+        
+      -2nd review
+        Set game UI 
+        Create game scoring 
+
+
+   *2nd sprint [10/4 to 30/4] 
+      1.Radio astronomy
+      2.Radiation measurement 
+      3.Game levels Integration 
+
+    *3rd Review 
+      1.Develop radiation
+      2.radio astronomy 
+    
+     *4th review 
+      1.Levels integration
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+3rd Milestone [Beta] [Deadline: 26/05/2023]
+ 
+ Objective:
+    1.Solving Bugs (if existed)
+    2.Enhancing the performance & aesthetics of the alpha version.
+    3.Adding sound to elements and Environment
+    4.Adding [find & rescue], and [Rover assembly] as a storytelling intro (Optional)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+4th Sprint Milestone [Final Release] [Deadline: 30/06/2023]
+ 
+ Objective: 
+  1.Solving earlier bugs
+  2.Work on postponed Issues
+  3.Final Polish of the VR Game 
+  4.Testing with external Users (Optional)
+
+
