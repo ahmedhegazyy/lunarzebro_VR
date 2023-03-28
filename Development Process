@@ -1,10 +1,9 @@
-The Internship Consists of 4 milestones each milestone lasts for [3 weeks ~ 1 month]. Each milestone consists of two sprints. Each sprint consists of two reviews
+The Internship Consists of 4 milestones each milestone lasts for 1 month. Each milestone consists of 2 sprints. Each sprint consists of 2 reviews.
 
-  1.Pre-Alpha [Conceptualization] 
-  2.Alpha [Mapping & Radiation]
-  3.Beta [Polish & Storytelling Intro]
-  4.Final Release & Field Testing
-  
+  1.Pre-Alpha 	[Conceptualization] 
+  2.Alpha 	[Mapping & Radiation]
+  3.Beta 	[Polish & Storytelling Intro]
+  4.Final 	[Release & Field Testing]
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -39,10 +38,10 @@ Deadline: 31/03/2023
    1.4 As a game, I can estimate the time taken for each region to be mapped.
    1.5 As a game, I create a score based on measuring this region's suitability and define the colony's size and upon, the number of residences.
    2.1 As a player, I want to select a group of rovers and measure the radiation of the crater.
-   2.2	As a player, I want to use the rovers to create a virtual antenna to do radio astronomy.
+   2.2As a player, I want to use the rovers to create a virtual antenna to do radio astronomy.
 
-  Tasks:
-   1.Create the basic game environment on blender. 
+  Overall Tasks:
+   1.Create the basic game environment. 
    2.For each user story create:
       a.Assets creation.
       b.Game UI inside UE.
@@ -55,14 +54,15 @@ Deadline: 31/03/2023
     2.Create environment 
     3.Develop mapping and scoring.
 
-      -1st Review 
-        VR template 
-        Environment & Assets 
-	      Develop Topology mapping
+      -1st Review [03/04/2023]
+        -VR template 
+        -Environment & Assets 
+	-Topology mapping
         
-      -2nd review
-        Set game UI 
-        Create game scoring 
+      -2nd review [10/04/2023]
+        -Topology mapping [continue] 
+	-Set game UI 
+        -Create game scoring 
 
 
    *2nd sprint [10/4 to 30/4] 
@@ -70,12 +70,12 @@ Deadline: 31/03/2023
       2.Radiation measurement 
       3.Game levels Integration 
 
-    *3rd Review 
-      1.Develop radiation
-      2.radio astronomy 
+    *3rd Review [17/04/2023]
+     -Develop radiation
+     -Radio astronomy 
     
-     *4th review 
-      1.Levels integration
+     *4th review [30/04/2023]
+     - Features integration & 1st Release
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ Deadline: 31/03/2023
     1.Solving Bugs (if existed)
     2.Enhancing the performance & aesthetics of the alpha version.
     3.Adding sound to elements and Environment
-    4.Adding [find & rescue], and [Rover assembly] as a storytelling intro (Optional)
+    4.(Optional) Adding [find & rescue], and [Rover assembly] as a storytelling intro 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
