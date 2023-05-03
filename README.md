@@ -1,3 +1,3 @@
-# LunarZebroVR
+# VRLunarZebro
 
 Developed with Unreal Engine 5
